@@ -1,3 +1,4 @@
+# Smart Contract Lottery
 Simple lottery smart contract using the brownie framework.
 1. Users can enter lottery with ETH based on a USD fee (uses Chainlink price feed)
 2. The admin gets to choose when the lottery is over
